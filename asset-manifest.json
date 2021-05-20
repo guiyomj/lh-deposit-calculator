@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lh-deposit-calculator/static/css/main.f47f8196.chunk.css",
+    "main.js": "/lh-deposit-calculator/static/js/main.596fba10.chunk.js",
+    "main.js.map": "/lh-deposit-calculator/static/js/main.596fba10.chunk.js.map",
+    "runtime-main.js": "/lh-deposit-calculator/static/js/runtime-main.cd8cd1db.js",
+    "runtime-main.js.map": "/lh-deposit-calculator/static/js/runtime-main.cd8cd1db.js.map",
+    "static/js/2.cac8faf7.chunk.js": "/lh-deposit-calculator/static/js/2.cac8faf7.chunk.js",
+    "static/js/2.cac8faf7.chunk.js.map": "/lh-deposit-calculator/static/js/2.cac8faf7.chunk.js.map",
+    "static/js/3.bd558844.chunk.js": "/lh-deposit-calculator/static/js/3.bd558844.chunk.js",
+    "static/js/3.bd558844.chunk.js.map": "/lh-deposit-calculator/static/js/3.bd558844.chunk.js.map",
+    "index.html": "/lh-deposit-calculator/index.html",
+    "static/css/main.f47f8196.chunk.css.map": "/lh-deposit-calculator/static/css/main.f47f8196.chunk.css.map",
+    "static/js/2.cac8faf7.chunk.js.LICENSE.txt": "/lh-deposit-calculator/static/js/2.cac8faf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd8cd1db.js",
+    "static/js/2.cac8faf7.chunk.js",
+    "static/css/main.f47f8196.chunk.css",
+    "static/js/main.596fba10.chunk.js"
+  ]
+}
