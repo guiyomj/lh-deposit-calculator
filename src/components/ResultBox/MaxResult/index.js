@@ -15,7 +15,6 @@ const MaxResult = () => {
 
   useEffect(() => {
     const calcMaxResult = calcMax({ monthFee: monthFeeValue, limit: limitValue, rate: rateValue });
-    console.log(calcMaxResult, depositValue, limitValue, monthFeeValue, rateValue);
     setCalcResult(calcMaxResult);
   }, [depositValue, limitValue, monthFeeValue, rateValue]);
 

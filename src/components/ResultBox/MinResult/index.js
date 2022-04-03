@@ -13,7 +13,6 @@ const MinResult = () => {
 
   useEffect(() => {
     const maxMonthFee = calcMin({ deposit: depositValue, rate: rateValue });
-    console.log(depositValue, monthFeeValue, rateValue);
     setMaxMonthFee(maxMonthFee);
   }, [depositValue, monthFeeValue, rateValue]);
 
