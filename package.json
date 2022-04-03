@@ -2,7 +2,7 @@
   "name": "deposit_calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://guiyomj.github.io/lh-deposit-calculator",
+  "homepage": "http://sap03110.github.io/lh-deposit-calculator",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@testing-library/jest-dom": "^5.11.4",
@@ -12,20 +12,19 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.0.1"
+    "recoil": "^0.7.0",
+    "sass": "^1.49.11"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
-      "react-app/jest"
+      "react-app"
     ]
   },
   "browserslist": {

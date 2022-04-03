@@ -1,0 +1,23 @@
+input[type='number'] {
+  width: calc(100% - 10vw);
+  margin: 0 auto;
+  background-color: #ffffff70;
+  border: 1px solid #ddd;
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  padding: 15px;
+  display: block;
+
+  &::-webkit-outer-spin-button,
+  &::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  &[class^='etc-text'] {
+    width: max-content;
+    padding: 0;
+    margin: 0 10px;
+  }
+}

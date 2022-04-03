@@ -1,0 +1,16 @@
+.radioGroup {
+  width: calc(100% - 10vw);
+  margin: 0 auto;
+  display: flex;
+
+  label {
+    margin-right: 10px;
+    align-items: center;
+    display: inline-flex;
+
+    > span {
+      word-break: keep-all;
+      margin-left: 4px;
+    }
+  }
+}
